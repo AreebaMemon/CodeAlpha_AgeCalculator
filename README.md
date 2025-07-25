@@ -13,8 +13,7 @@ A simple web app to calculate your age in **years**, **months**, and **days** us
 3. Select your DOB → Click "Calculate" → See your age!
 
 ## 🔗 Links
-- 🔴 **Live Demo**: [https://your-username.github.io/codealpha_age_calculator](https://your-username.github.io/codealpha_age_calculator)
-- 📂 GitHub Repo: [https://github.com/your-username/codealpha_age_calculator](https://github.com/your-username/codealpha_age_calculator)
+- 🔴 **Live Demo**: [https://your-username.github.io/codealpha_age_calculator](https://areebamemon.github.io/CodeAlpha_AgeCalculator/)
 - 🎥 Video Demo: [LinkedIn Post](https://linkedin.com/in/your-post-link)
 
 ## ✅ Completed as part of **CodeAlpha Internship**
